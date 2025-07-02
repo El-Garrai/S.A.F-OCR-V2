@@ -1,0 +1,20 @@
+    1 {
+    2   "name": "S.A.F-OCR",
+    3   "short_name": "S.A.F-OCR",
+    4   "start_url": "/",
+    5   "display": "standalone",
+    6   "background_color": "#ffffff",
+    7   "theme_color": "#000000",
+    8   "icons": [
+    9     {
+   10       "src": "/static/icon-192x192.png",
+   11       "sizes": "192x192",
+   12       "type": "image/png"
+   13     },
+   14     {
+   15       "src": "/static/icon-512x512.png",
+   16       "sizes": "512x512",
+   17       "type": "image/png"
+   18     }
+   19   ]
+   20 }
